@@ -6,13 +6,13 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Roy's portfolio website",
     "author": "Roy Lee",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/favicon.png",
     "bio": "",
     "social": {
       "github": "https://github.com/9uanlin",
       "linkedin": "https://www.linkedin.com/in/9uanlin",
       "mail": "mailto:lee9uanlin@gmail.com",
-      "instagram": ""
+      "medium": "https://medium.com/@lee9uanlin"
     }
   },
   "siteConfiguration": {
