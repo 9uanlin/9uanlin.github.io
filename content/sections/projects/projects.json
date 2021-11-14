@@ -2,39 +2,52 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🚀 HACKATHON PROJECT",
+      "title": "Yeet",
+      "description": "During the pandemic, I got annoyed of having to click through my bookmarks bar everyday to open all the websites I needed for school. So, I created Yeet, a quick-launcher Chrome extension that allows users to open all the tabs they need for work in one click. ",
+      "tags": ["JavaScript", "HTML/CSS", "Google Cloud API"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "src": "../../images/yeet.png",
+        "alt": "yeet"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/9uanlin/yeet"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "📝 ACADEMIC PROJECT",
+      "title": "BananaList",
+      "description": "BananaList is an a-peel-ing desktop to-do list application. It provides users with urgency labels and an integrated point-reward system to keep that motivation high 💪",
+      "tags": ["Java", "Java Swing", "JUnit", "GSON"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/bananalist.png",
+        "alt": "bananalist"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/9uanlin/bananalist"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💻 PERSONAL PROJECT",
+      "title": "WeatherWidget",
+      "description": "A simple weather widget that displays current temperature and feel in Vancouver. Comes with cool animations!",
+      "tags": ["ScrollReveal", "JS/HTML/CSS", "OpenWeatherMap API"],
+      "image": {
+        "src": "../../images/weatherwidget.png",
+        "alt": "weatherwidget"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/9uanlin/weatherwidget"
         }
       ]
     }
@@ -42,6 +55,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/9uanlin"
   }
 }
